@@ -1,6 +1,6 @@
 # My First Repository
 
-'''C
+'''c
 int main()
 {
   return 0;
